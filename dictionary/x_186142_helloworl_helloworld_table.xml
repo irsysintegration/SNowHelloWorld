@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="HelloWorld Table" max_length="40" name="x_186142_helloworl_helloworld_table" type="collection"/>
+</database>
